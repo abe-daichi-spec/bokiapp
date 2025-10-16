@@ -1,0 +1,9 @@
+{
+  "name": "簿記 商店経営RPG",
+  "short_name": "簿記RPG",
+  "start_url": ".",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#ffffff",
+  "icons": []
+}
